@@ -8,6 +8,7 @@ Instagram clone is social media application ui(user interface) where you can cre
   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
+  <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
 </p>
 
 ## Features
