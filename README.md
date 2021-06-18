@@ -3,11 +3,14 @@ Instagram clone is social media application ui(user interface) where you can cre
 
 ## Screenshots
 
+
 ## Features
 - Stories
   - Create your own stories and also see your friends stories.
+
 - Posts
   - Create your own posts and also see your friends posts.
+
 - Like,Comment,Share and Bookmark
   - You can like,comment,share and bookmark your friend posts.
   - Your friend can like,comment,share and bookmark your posts.
