@@ -4,7 +4,7 @@ Instagram clone is social media application ui(user interface) where you can cre
 ## Screenshots
 <!-- ![](/Images/Instagram_App_Screenshot_1.jpg =250x500) -->
 <!-- <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"> -->
-<p float="left">
+<p float="center">
   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500">
   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500">
   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500">
