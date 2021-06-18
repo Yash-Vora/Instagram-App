@@ -1,11 +1,16 @@
-# Instagram Clone App
+# Instagram Clone
 Instagram clone is social media application ui(user interface) where you can create your stories and post your thoughts or just talk about something that you are passionate about. For example you can post something related to travelling,sports etc.
 
+## Screenshots
+
 ## Features
-- Create your own stories and also see your friends stories.
-- Create your own posts and also see your friends posts.
-- You can like,comment,share and bookmark your friend posts.
-- Your friend can like,comment,share and bookmark your posts.
+- Stories
+  - Create your own stories and also see your friends stories.
+- Posts
+  - Create your own posts and also see your friends posts.
+- Like,Comment,Share and Bookmark
+  - You can like,comment,share and bookmark your friend posts.
+  - Your friend can like,comment,share and bookmark your posts.
 
 ## How to run the app
 - Android studio must be installed in your laptop or pc.
