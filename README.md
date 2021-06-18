@@ -6,11 +6,11 @@ Instagram clone is social media application ui(user interface) where you can cre
 <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
 
 ## Features
-- Stories
+- <b>Stories</b>
   - Create your own stories and also see your friends stories.
-- Posts
+- <b>Posts</b>
   - Create your own posts and also see your friends posts.
-- Like,Comment,Share and Bookmark
+- <b>Like,Comment,Share and Bookmark</b>
   - You can like,comment,share and bookmark your friend posts.
   - Your friend can like,comment,share and bookmark your posts.
 
