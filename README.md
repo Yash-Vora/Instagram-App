@@ -3,9 +3,8 @@ Instagram clone is social media application ui(user interface) where you can cre
 
 ## Screenshots
 <!-- ![](/Images/Instagram_App_Screenshot_1.jpg =250x400) -->
-<p align="center">
-  <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="400">
-</p>
+<img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="400">
+<img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="400">
 
 ## Features
 - Stories
