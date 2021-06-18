@@ -3,13 +3,14 @@ Instagram clone is social media application ui(user interface) where you can cre
 
 ## Screenshots
 <!-- ![](/Images/Instagram_App_Screenshot_1.jpg =250x500) -->
-<!-- <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"> -->
-<p float="center">
-  <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500">
-  <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500">
-  <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500">
-  <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500">
-</p>
+<img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
+<!-- To set multiple images in grid view -->
+<!-- <p float="left"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
+<!-- </p> -->
 
 ## Features
 - <b>Stories</b>
