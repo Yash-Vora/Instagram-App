@@ -13,9 +13,9 @@ Instagram clone is social media application ui(user interface) where you can cre
   - Your friend can like,comment,share and bookmark your posts.
 
 ## How to run the app
-- Android studio must be installed in your laptop or pc.
-- Download the project.
-- Open project in android studio.
+-> Android studio must be installed in your laptop or pc.
+-> Download the project.
+-> Open project in android studio.
 - It will take some time in gradle build.
 - Connect your mobile with usb to your laptop or pc and enable usb debbugging in your mobile.
 - Now just click run button on top right side and app will run on your mobile.
