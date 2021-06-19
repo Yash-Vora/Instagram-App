@@ -1,5 +1,5 @@
 # Instagram Clone
-Instagram clone is social media application ui(user interface) where you can create your stories and post your thoughts or just talk about something that you are passionate about. For example you can post something related to travelling,sports etc.
+Instagram clone is social media application ui(user interface) where you can create your stories and post your thoughts or just talk about something that you are passionate about.
 
 ## Screenshots
 <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
