@@ -2,7 +2,7 @@
 Instagram clone is social media application ui(user interface) where you can create your stories and post your thoughts or just talk about something that you are passionate about.
 
 ## Screenshots
-<img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
+<img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"/>
 <!-- To set multiple images in grid view -->
 <!-- <p float="left"> -->
 <!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
