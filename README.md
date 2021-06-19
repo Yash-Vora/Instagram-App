@@ -2,14 +2,7 @@
 Instagram clone is social media application ui(user interface) where you can create your stories and post your thoughts or just talk about something that you are passionate about.
 
 ## Screenshots
-<img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"/>
-<!-- To set multiple images in grid view -->
-<!-- <p float="left"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
-<!-- </p> -->
+<img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500">
 
 ## Features
 - <b>Stories</b>
@@ -19,6 +12,12 @@ Instagram clone is social media application ui(user interface) where you can cre
 - <b>Like,Comment,Share and Bookmark</b>
   - You can like,comment,share and bookmark your friend posts.
   - Your friend can like,comment,share and bookmark your posts.
+
+## Installation
+- For installing android studio click on this link. 
+  - 
+- For more info related to android studio installation on different platform click on this link.
+  - 
 
 ## How to run the app
 - Android studio must be installed in your laptop or pc.
