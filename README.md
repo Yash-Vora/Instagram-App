@@ -14,10 +14,10 @@ Instagram clone is social media application ui(user interface) where you can cre
   - Your friend can like,comment,share and bookmark your posts.
 
 ## Installation
-- <b>For installing android studio click on this link.</b> 
-  - `[Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads)`
-- <b>For more info related to android studio installation on different platform click on this link.</b>
-  - `[Check For More Info](https://developer.android.com/studio/install)`
+- <b>For installing `android studio` click on this link.</b> 
+  - [Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads "Android Studio")
+- <b>For more info related to `android studio` installation on different platform click on this link.</b>
+  - [Check For More Info](https://developer.android.com/studio/install "More Info")
 
 ## How to run the app
 - Android studio must be installed in your laptop or pc.
